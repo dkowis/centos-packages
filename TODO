@@ -1,0 +1,7 @@
+Use vagrant to build packages for
+ * ruby 2.0
+ * ruby 1.9.3
+ * graylog2-server
+ * graylog2-web
+ * elasticsearch
+ * mongo ?
