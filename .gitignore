@@ -1,0 +1,5 @@
+.vagrant
+recipies/*/cache
+recipies/*/pkg
+recipies/*/tmp-build
+recipies/*/tmp-dest
