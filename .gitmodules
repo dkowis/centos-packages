@@ -1,0 +1,3 @@
+[submodule "recipies/additional"]
+	path = recipies/additional
+	url = git://github.com/bernd/fpm-recipes.git
